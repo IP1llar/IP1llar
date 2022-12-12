@@ -1,13 +1,11 @@
-### Hi there 👋
+### Full Stack Web Dev
+Hi there! I'm a full stack web developer with a strong background in mathematics and a passion for creating intuitive and dynamic web applications using a variety of technologies, including:
 
-Welcome to my GitHub profile!
+- JavaScript, TypeScript
+- React, Angular, Redux
+- Node.js, Express, Koa
+- MongoDB, SQL
 
-Here you'll find a collection of my professional programming projects.
+In my free time, I enjoy playing music and spending time with friends and family. I am always looking for new challenges and opportunities to grow as a developer, and I am excited to bring my skills and expertise to any project or team.
 
-I have a strong background in software development, and I am always looking to learn and improve my skills.
-
-Feel free to take a look around and see what I have to offer.
-
-Thank you for visiting!
-
-[![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=IP1llar)](https://github.com/IP1llar/github-readme-stats)
+Feel free to check out my portfolio and contact me if you have any questions or would like to collaborate on a project. 💻🎸
