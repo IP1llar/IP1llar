@@ -1,11 +1,20 @@
-### Full Stack Web Dev
-Hi there! I'm a full stack web developer with a strong background in mathematics and a passion for creating intuitive and dynamic web applications using a variety of technologies, including:
+# Full Stack Developer
 
-- JavaScript, TypeScript
-- React, Angular, Redux
-- Node.js, Express, Koa
-- MongoDB, SQL
+Hi there! I’m a full stack developer with a strong background in **mathematics, system design, and scalable web applications**. I enjoy building projects that combine **complex logic, automation, and user-facing interfaces**.
 
-In my free time, I enjoy playing music and spending time with friends and family. I am always looking for new challenges and opportunities to grow as a developer, and I am excited to bring my skills and expertise to any project or team.
+## Key Technologies
+TypeScript, Node.js, SQL/PostgreSQL, WebSockets, AWS, Docker, Playwright, Jest
 
-Feel free to check out my portfolio and contact me if you have any questions or would like to collaborate on a project. 💻🎸
+## Highlighted Project
+### Hackaranda
+- A modular game sim platform, initially for the card game Arboretum  
+- Includes **CLI tournament engine** for containerized bots using TypeScript  
+- Hosted a weekend hackathon with 15 participants, enabling **multi-language bot integration via Docker**  
+- Take a look at the **documentation and example bots** if you're interested and want to take part in the next one!  
+
+## About Me
+I’m always exploring new **technical challenges in web development, backend systems, and automation**, and I’m excited to contribute to projects that push boundaries.
+
+I'm currently exploring Go, AWS, Docker, and Rust.
+
+Feel free to explore my repositories and reach out if you want to **collaborate or discuss ideas**.
